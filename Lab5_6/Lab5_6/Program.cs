@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 
 namespace Lab5_6
 {
@@ -62,6 +63,15 @@ namespace Lab5_6
             {
                 if (allCustomers[i].age < 21)
                 {
+                    int x = allCustomers[i].age;
+                    int y = 7;
+                    int sum = allCustomers[i].age * y;
+                    Console.WriteLine(allCustomers[i].first_name + " " + allCustomers[i].last_name + " would be able to order if their age was changed to dog years: " + " " + sum);
+                }
+
+                if (allCustomers[i].age < 21)
+                {
+                    
                     Console.WriteLine(allCustomers[i].first_name + " " + allCustomers[i].last_name + " is not allowed to place an order");
                 }
                 else
