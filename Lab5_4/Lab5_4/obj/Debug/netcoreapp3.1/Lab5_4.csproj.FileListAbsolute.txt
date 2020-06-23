@@ -1,0 +1,13 @@
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\bin\Debug\netcoreapp3.1\Lab5_4.exe
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\bin\Debug\netcoreapp3.1\Lab5_4.deps.json
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\bin\Debug\netcoreapp3.1\Lab5_4.runtimeconfig.json
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\bin\Debug\netcoreapp3.1\Lab5_4.runtimeconfig.dev.json
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\bin\Debug\netcoreapp3.1\Lab5_4.dll
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\bin\Debug\netcoreapp3.1\Lab5_4.pdb
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\obj\Debug\netcoreapp3.1\Lab5_4.csprojAssemblyReference.cache
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\obj\Debug\netcoreapp3.1\Lab5_4.AssemblyInfoInputs.cache
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\obj\Debug\netcoreapp3.1\Lab5_4.AssemblyInfo.cs
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\obj\Debug\netcoreapp3.1\Lab5_4.csproj.CoreCompileInputs.cache
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\obj\Debug\netcoreapp3.1\Lab5_4.dll
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\obj\Debug\netcoreapp3.1\Lab5_4.pdb
+C:\Users\Jackass\source\repos\BradenFreeman\SD1042020Braden\Lab5_4\Lab5_4\obj\Debug\netcoreapp3.1\Lab5_4.genruntimeconfig.cache
