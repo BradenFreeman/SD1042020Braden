@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SDSR4lM/qOUvOufUmqcTkzbCUdokw8C3MEkbOyatpIn/lw14nk2b7jwdOoxYM9gXZg1yFrvMY9GPF6eC7mV+pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lesson7\\Lesson7\\Lesson7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jackass\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

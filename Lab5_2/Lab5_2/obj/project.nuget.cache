@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYU5Gtzreqfiio+E7cpuzXYoz6Yn6UtDkrwKX8Ypswz+q9eh8Q+wfl5KPKiUlxUWO0SQrjuWC6Deteu8sXXo8Q==",
+  "dgSpecHash": "ip7+9k1w+DDiEp05nHTquk20AOL55yDFIzazlgdOQhsC5smgOFohmeKT+mi0tm1oKK1K2NROzDqTK3JYguSqqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab5_2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "projectFilePath": "C:\\Users\\Jackass\\source\\repos\\BradenFreeman\\SD1042020Braden\\Lab5_2\\Lab5_2\\ConsoleApp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jackass\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

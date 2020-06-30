@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUTJM7lRdKApOKK5S+Kgfm2qiAis6iG9pTyKXYxO06En2WmIqEoghWeeUVC3pc4hj7kqyJfcwHxnSClvIYYoXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jackass\\source\\repos\\BradenFreeman\\SD1042020Braden\\Lab7_4\\Lab7_4\\Lab7_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jackass\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
