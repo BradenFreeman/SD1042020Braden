@@ -69,12 +69,15 @@ namespace Lab7_4
             {
                 if (message.isRead == false)
                 {
+                    Console.WriteLine(message.sender.firstName + " " + "sent you a message.");
                     Console.WriteLine(message.messageTitle);
                     Console.WriteLine(message.messageData);
                     message.isRead = true;
+                    
                 }
             }
         }
+
     }
     class Messages
     {
