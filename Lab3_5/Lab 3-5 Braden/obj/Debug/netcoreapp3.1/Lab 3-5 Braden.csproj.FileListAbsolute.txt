@@ -1,0 +1,4 @@
+C:\Users\Jackass\source\repos\Lab 3-5 Braden\Lab 3-5 Braden\obj\Debug\netcoreapp3.1\Lab 3-5 Braden.AssemblyInfoInputs.cache
+C:\Users\Jackass\source\repos\Lab 3-5 Braden\Lab 3-5 Braden\obj\Debug\netcoreapp3.1\Lab 3-5 Braden.AssemblyInfo.cs
+C:\Users\Jackass\source\repos\Lab 3-5 Braden\Lab 3-5 Braden\obj\Debug\netcoreapp3.1\Lab 3-5 Braden.csproj.CoreCompileInputs.cache
+C:\Users\Jackass\source\repos\Lab 3-5 Braden\Lab 3-5 Braden\obj\Debug\netcoreapp3.1\Lab 3-5 Braden.csprojAssemblyReference.cache
