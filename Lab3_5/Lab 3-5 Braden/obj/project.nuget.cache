@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uTAUTtzmZbFKLeC85FZfcaoSNLEra8QBwwoDz9JDnO2d6pjm6z0nzJVXrWnPIprHH6F0qtDixupkjTN6UGcAKw==",
+  "dgSpecHash": "K91XeFVmgQpXkCzJmZjTXZsV76TZwH6di5bd+DGq1LPQc8Nnwuk8GMpYesrG6iCmcV9QGtj0Jwz4Fw1ReDV1ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jackass\\source\\repos\\Lab 3-5 Braden\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Jackass\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab3_5\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jackass\\source\\repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\Lab2_5.csproj": {}
+    "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\Lab2_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jackass\\source\\repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\Lab2_5.csproj": {
+    "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\Lab2_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jackass\\source\\repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\Lab2_5.csproj",
+        "projectUniqueName": "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\Lab2_5.csproj",
         "projectName": "Lab2_5",
-        "projectPath": "C:\\Users\\Jackass\\source\\repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\Lab2_5.csproj",
+        "projectPath": "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\Lab2_5.csproj",
         "packagesPath": "C:\\Users\\Jackass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jackass\\source\\repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\obj\\",
+        "outputPath": "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab2_5\\Lab2_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jackass\\AppData\\Roaming\\NuGet\\NuGet.Config",

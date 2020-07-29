@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jackass\\source\\repos\\Lab 3-5 Braden\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj": {}
+    "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab3_5\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jackass\\source\\repos\\Lab 3-5 Braden\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj": {
+    "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab3_5\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jackass\\source\\repos\\Lab 3-5 Braden\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj",
+        "projectUniqueName": "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab3_5\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj",
         "projectName": "Lab 3-5 Braden",
-        "projectPath": "C:\\Users\\Jackass\\source\\repos\\Lab 3-5 Braden\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj",
+        "projectPath": "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab3_5\\Lab 3-5 Braden\\Lab 3-5 Braden.csproj",
         "packagesPath": "C:\\Users\\Jackass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jackass\\source\\repos\\Lab 3-5 Braden\\Lab 3-5 Braden\\obj\\",
+        "outputPath": "C:\\Users\\Jackass\\Source\\Repos\\BradenFreeman\\SD1042020Braden\\Lab3_5\\Lab 3-5 Braden\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jackass\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,18 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
